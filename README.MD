@@ -17,12 +17,16 @@
 
 **1. Repository**
 - git remote add origin "gitaddress"
+- git remote –v
 
-**2. Push**
+**2. Push & Pull
 - git push -u origin main
+- git pull origin main
 
-**3. branch**
+**3. Branch**
 - git branch -M main 
 - git checkout –b freshman
 - git switch main
 
+**4. File Delete in Repository**
+- git rm <filename> 
