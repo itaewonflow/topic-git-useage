@@ -16,8 +16,9 @@
 - git commit -m "first commit"
 
 **1. Repository**
-- git remote add origin "gitaddress"
 - git remote –v
+- git remote add origin "repository"
+- git clone "repository" "directory name"
 
 **2. Push & Pull**
 - git push -u origin main
