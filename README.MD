@@ -10,11 +10,21 @@
 - ssh-keygen.exe  
 
 ### 3. Git Commend
-> We loved with a love that was more than love
 
-
+> git initiate
 - git init 
+
+> git add
+- git add .
+
+> git write commit comment
 - git commit -m "first commit"
+
+> git branch move
 - git branch -M main
-- git remote add origin git@github.com:itaewonflow/topic-git-useage.git
+
+> git repository move
+- git remote add origin "gitaddress"
+
+> git push
 - git push -u origin main
