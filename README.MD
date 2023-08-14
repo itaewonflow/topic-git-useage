@@ -15,14 +15,14 @@
 - git add .
 - git commit -m "first commit"
 
-:  git branch move
-- git branch -M main 
-
-> git repository move
+1. Repository
 - git remote add origin "gitaddress"
 
-> git push
+2. Push
 - git push -u origin main
 
-> git make branch
+3. branch
+- git branch -M main 
+- git checkout –b freshman
+- git switch main
 
