@@ -19,7 +19,7 @@
 - git remote add origin "gitaddress"
 - git remote –v
 
-**2. Push & Pull
+**2. Push & Pull**
 - git push -u origin main
 - git pull origin main
 
