@@ -11,20 +11,18 @@
 
 ### 3. Git Commend
 
-> git initiate
 - git init 
-
-> git add
 - git add .
-
-> git write commit comment
 - git commit -m "first commit"
 
-> git branch move
-- git branch -M main
+:  git branch move
+- git branch -M main 
 
 > git repository move
 - git remote add origin "gitaddress"
 
 > git push
 - git push -u origin main
+
+> git make branch
+
