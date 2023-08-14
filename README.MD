@@ -29,4 +29,5 @@
 - git switch main
 
 **4. File Delete in Repository**
-- git rm "filename"
+- git rm "filename"  : Delete local & Repository
+- git rm --cached "filename"  : Delete Repository Only
