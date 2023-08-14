@@ -1,14 +1,16 @@
 # Github Commend doc
 
-#0. Git Bash Start
+0. Git Bash Start
 - git config --global user.name "Name"
 - git config –-global user.email "Email Address(Same as Git hub)"
 - git config --list
 
-#0. Make SSH Key
+────────────────────────────────────────────
+0. Make SSH Key
 - ssh-keygen.exe  
 
-#1. Git Commend
+────────────────────────────────────────────
+1. Git Commend
 - git init : Git Initiate
 - git commit -m "first commit"
 git branch -M main
