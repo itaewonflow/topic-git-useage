@@ -1,4 +1,4 @@
-## Github Commend doc
+# Github Commend doc
 
 #0. Git Bash Start
 - git config --global user.name "Name"
