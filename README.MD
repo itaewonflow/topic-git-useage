@@ -29,4 +29,4 @@
 - git switch main
 
 **4. File Delete in Repository**
-- git rm <filename> 
+- git rm <filename>
