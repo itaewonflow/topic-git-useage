@@ -32,3 +32,7 @@
 **4. File Delete in Repository**
 - git rm "filename"  : Delete local & Repository
 - git rm --cached "filename"  : Delete Repository Only
+- git clean -n : check untracked file will be deleted
+- git clean -f : delete local file in the untracked list file
+- git clean -f -d "directory name:" : delete local file & directory in the untracked list file
+
