@@ -16,7 +16,8 @@
 - git commit -m "first commit"
 
 **1. Repository**
-- git remote –v
+- git remote -v
+- git remote remove origin
 - git remote add origin "repository"
 - git clone "repository" "directory name"
 
