@@ -37,7 +37,7 @@
 - git clean -f : delete local file in the untracked list file
 - git clean -f -d "directory name:" : delete local file & directory in the untracked list file
 
-**Useful Usages
+
+### Useful Usages
 - git config --global core.autocrlf true 
   : Message Ignore "warning: LF will be replaced by CRLF"
-
